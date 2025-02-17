@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  
+
+  Created by Neeraj soni on 13/02/25.
+  
+*/
+"home_title" = "Home";
+"feature_title" = "Feature";
+"settings_title" = "Settings";
+
